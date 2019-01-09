@@ -2,7 +2,7 @@
   "name": "@sridharan_jayabal/tiny",
   "version": "1.0.1",
   "description": "Removes all spaces from a string",
-  "license": "MIT",
+  "license": "Apache License",
   "repository": "sridharan_jayabal/tiny",
   "main": "index.js",
   "keywords": [
